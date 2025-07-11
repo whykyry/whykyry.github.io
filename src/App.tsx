@@ -24,10 +24,10 @@ const Home: React.FC = () => {
     <Container maxWidth="lg" sx={{ mt: 4, mb: 4 }}>
       <Box textAlign="center">
         <Typography variant="h2" component="h1" gutterBottom>
-          Welcome to Kyle.dev
+          Welcome to Kyle.dev yahoooo
         </Typography>
         <Typography variant="h5" component="p" gutterBottom>
-          A modern React application with Material-UI and TypeScript
+          A modern React application with Material-UI and TypeScript yahoooo
         </Typography>
         <Box sx={{ mt: 4 }}>
           <Button
