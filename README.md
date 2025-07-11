@@ -46,7 +46,7 @@ Personal website and portfolio built with React, TypeScript, and Material-UI. Th
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build locally
 - `npm run lint` - Run ESLint
-- `npm run deploy` - Deploy to GitHub Pages manually
+
 
 ## 🌐 Deployment
 
@@ -60,10 +60,10 @@ This site uses GitHub Actions for automatic deployment:
 
 ### Manual Deployment
 
-If you prefer manual deployment:
+To manually trigger a deployment, simply push to the main branch:
 
 ```bash
-npm run deploy
+git push origin main
 ```
 
 ## 📁 Project Structure
