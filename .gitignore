@@ -1,0 +1,105 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node modules
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build output
+build/
+dist/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Security and sensitive files
+*.pem
+*.key
+*.cert
+*.crt
+*.p12
+*.pfx
+*.jks
+*.keystore
+config.json
+secrets.json
+credentials.json
+.firebase
+.firebaserc
+firebase.json
+firestore.rules
+firestore.indexes.json
+
+# IDE and editor files
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+*.sublime-project
+*.sublime-workspace
+.history/
+.ionide/
+
+# Runtime and process files
+*.pid
+*.seed
+*.pid.lock
+.lock-wscript
+.grunt
+.lock-wscript
+.nyc_output
+.coverage
+coverage/
+*.lcov
+.sass-cache/
+connect.lock
+typings/
+*.tgz
+*.tar.gz
+
+# Backup files
+*.backup
+*.bak
+*.tmp
+*.swp
+*.swo
+*.orig
+*.rej
+*~
+.#*
+#*#
